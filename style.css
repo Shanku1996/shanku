@@ -1,0 +1,418 @@
+body{
+    background-color: dodgerblue;
+}
+
+.navbar{
+    align-content: normal;
+    justify-content: end;
+   
+
+    display: flex; 
+    gap: 5px;
+    font-size: 25px;
+    text-decoration: none;
+    color: crimson;
+
+}
+
+.navbar>a{
+    margin: 20px;
+}
+
+#div1{
+height: 50px;
+         
+}
+
+.img1{
+    border-radius: 100%;
+    background-color: cyan;
+    border: 3px solid chocolate;
+    line-height: 50px;
+    margin-bottom: 10px;
+
+}
+.head1{
+margin-left: 350px;
+color:black;
+    
+}
+.p1{
+    margin-left: 350px;
+font-size: 35px;
+    
+}
+#div2{
+    margin-left: 570px;
+margin-top: 150px;
+}
+.btn1{
+    color: black;
+    border-radius: 2px;
+    line-height: 10px;
+    background-color: crimson;
+    text-decoration: none;
+    border-radius: 10px;
+
+
+}  
+.btn1:hover{
+    background-color: brown;
+}
+#div00{
+    width: 300px;
+    height: 350px;
+    background-color: red;
+    margin-left: 100px;
+    margin-top: 15px;
+    position: absolute;
+    text-align: center;
+    border-radius: 5%;
+}
+
+#div01{
+    width: 300px;
+    height: 350px;
+    background-color:blue; 
+   margin-left: 500px;
+   margin-top: 15px;
+   position: absolute;
+   text-align: center;
+   border-radius: 5%;
+    
+}
+#div02{
+    width: 300px;
+    height: 350px;
+    background-color:darkmagenta;
+   margin-left: 900px;
+   margin-top: 15px;
+   position: absolute;
+   text-align: center;
+   border-radius: 5%;
+}
+.img00{
+    width:275px;
+    height: 210px;
+    margin-top: 10px;
+}
+.img01{
+    
+width:275px;
+height: 210px;
+margin-top: 10px;
+
+}
+.img02{
+    
+    width:275px;
+    height: 210px;
+    margin-top: 10px;
+    
+    }
+#div04{ 
+    margin-left: 570px;
+    position: absolute;
+    margin-top: 400px;
+}
+
+.btn2{
+   
+    color:white;
+    border-radius: 2px;
+    line-height: 10px;
+    background-color:black;
+    text-decoration: none;
+    border-radius: 10px;
+
+}  
+.btn2:hover{
+    background-color: dodgerblue;
+}
+
+#div05{
+    width: 300px;
+    height: 375px;
+    background-color:greenyellow;
+    margin-left: 100px;
+    margin-top: 500px;
+    position: absolute;
+    text-align: center;
+    border-radius: 5%;
+}
+#div06{
+    width: 300px;
+    height: 375px;
+    background-color :green; 
+   margin-left: 500px;
+   margin-top: 500px;
+   position: absolute;
+   text-align: center;
+   border-radius: 5%;
+
+    
+}
+#div07{
+    width: 300px;
+    height: 375px;
+    background-color:goldenrod;
+   margin-left: 900px;
+   margin-top: 500px;
+   position: absolute;
+   text-align: center;
+   border-radius: 5%;
+}
+.img03{
+    width:260px;
+    height: 240px;
+    margin-top:10px;
+
+}
+.img04{
+    width:260px;
+    height: 240px;
+    margin-top: 10px;
+}
+
+.img05{
+    width:260px;
+    height: 240px;
+    margin-top: 10px;
+}
+
+
+.button1{
+    border-radius: 2px;
+    line-height: 3px;
+    margin-left: 6px;
+    background-color:orangered;
+    text-decoration: none;
+    border-radius: 10px;
+    color: black;
+}
+
+.button1:hover{
+    color: brown;
+}
+
+.button2{
+    border-radius: 2px;
+    line-height: 3px;
+    margin-left: 6px;  background-color:orangered;
+    text-decoration: none;
+    border-radius: 10px;
+    color: black;
+}
+.button2:hover{
+    color: brown;
+}
+
+.button3{
+    border-radius: 2px;
+    line-height: 3px;
+    margin-left: 6px; 
+     background-color:orangered;
+    text-decoration: none;
+    border-radius: 10px;
+    color: black;
+}
+.button3:hover{
+    color: brown;
+}
+
+.button4{
+    border-radius: 2px;
+    line-height: 3px;
+    margin-left: 6px;
+    background-color:orangered;
+    text-decoration: none;
+    border-radius: 10px;
+    color: black;
+
+}
+
+.button4:hover{
+    color:brown ;
+}
+
+.button5{
+    border-radius: 2px;
+    line-height: 3px;
+    margin-left: 6px;
+    background-color:orangered;
+    text-decoration: none;
+    border-radius: 10px;
+    color: black;
+
+}
+
+.button5:hover{
+    color:brown ;
+}
+
+.button6{
+    border-radius: 2px;
+    line-height: 3px;
+    margin-left: 6px;  
+      background-color:orangered;
+    text-decoration: none;
+    border-radius: 10px;
+    color: black;
+
+}
+
+.button6:hover{
+    color:brown;
+}
+#div08{
+    width: 300px;
+    height: 375px;
+    background-color:darkblue;
+   margin-left: 100px;
+   margin-top: 1100px;
+   position: absolute;
+   text-align: center;
+   border-radius: 5%;
+   
+}
+#div09{
+    width: 300px;
+    height: 375px;
+    background-color:darkcyan;
+   margin-left: 500px;
+   margin-top: 1100px;
+   position: absolute;
+   text-align: center;
+   border-radius: 5%;
+   
+}
+#div10{
+    width: 300px;
+    height: 375px;
+    background-color: darkgreen;
+   margin-left: 900px;
+   margin-top:1100px;
+   position: absolute;
+   text-align: center;
+   border-radius: 5%;
+   
+}
+
+.img06{
+    width:260px;
+    height: 240px;
+    margin-top: 10px;
+}
+
+.img07{
+    width:260px;
+    height: 240px;
+    margin-top: 10px;
+}
+
+.img08{
+    width:260px;
+    height: 240px;
+    margin-top: 10px;
+}
+#div11{
+    margin-left: 460px;
+    position: absolute;
+    margin-top: 950px;
+
+}
+.btn111{
+    
+    border-radius: 5px;
+    line-height: 10px;
+    background-color:darkmagenta;
+    text-decoration: none;
+    border-radius: 10px;
+    color: black;
+
+}
+.btn111:hover{
+    color:white;
+}
+
+.head4{
+    
+    color: blue;
+}
+.button7{
+    border-radius: 2px;
+    line-height: 3px;
+    margin-left: 6px;
+    background-color:orangered;
+    text-decoration: none;
+    border-radius: 10px;
+    color: black;
+
+}
+.button8{
+    border-radius: 2px;
+    line-height: 3px;
+    margin-left: 6px;
+    background-color:orangered;
+    text-decoration: none;
+    border-radius: 10px;
+    color: black;
+
+}
+.button9{
+    border-radius: 2px;
+    line-height: 3px;
+    margin-left: 6px;
+    background-color:orangered;
+    text-decoration: none;
+    border-radius: 10px;
+    color: black;
+
+}
+.button7:hover{
+    color:red;
+}
+
+.button8:hover{
+    color:red;
+}
+
+.button9:hover{
+    color:red;
+}
+#a1{
+    text-decoration: none;
+}
+#a2{
+    text-decoration: none;
+}
+#a3{
+    text-decoration: none;
+}
+#a4{
+    text-decoration: none;
+}
+#a5{
+    text-decoration: none;
+}
+#a6{
+    text-decoration: none;
+}
+#a7{
+    text-decoration: none;
+}
+#a8{
+    text-decoration: none;
+}
+#a9{
+    text-decoration: none;
+}
+#aa0{
+text-decoration: none;
+}
+#aa1{
+    text-decoration: none;
+}
+#aa2{
+    text-decoration: none;
+}

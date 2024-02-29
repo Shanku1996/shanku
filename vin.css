@@ -1,0 +1,124 @@
+body{
+    background-color: burlywood;
+}
+.home{
+    margin-left: 800px;
+    color: black;
+    font-size: 18px;
+    text-decoration: none;
+}
+.product{
+    margin-left: 25px;
+    color: black;
+    font-size: 18px;
+    text-decoration: none;
+}
+.furniture{
+    margin-left: 25px;
+    color: black;
+    font-size: 18px;
+    text-decoration: none;
+}
+.store{
+    margin-left: 25px;
+    color: black;
+    font-size: 18px;
+    text-decoration: none;
+}
+.material-symbols-outlined{
+    margin-left: 25px;
+}
+
+#nav{
+    height: 40px;
+    background-color: yellow;
+}
+
+
+#div01{
+    
+margin-bottom: 250px;
+    margin-left: 50px;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#img00{
+    width: 450px;
+    margin-left: 700px;
+    margin-top: 50px;
+}
+
+
+
+
+.btn1{ 
+    margin-left: 35px;
+    margin-top: 20px;
+    width: 200px;
+    height: 50px;
+    font-size: 25px;
+    color:white;
+    background-color:black;
+    border-radius: 7px;
+}
+
+    
+.btn1:hover{
+    background-color: blue;
+}
+
+
+#div02{
+    width: 300px;
+    height: 200px;
+    background-color:cornsilk;
+    margin-left: 50px;
+    margin-top: 80px;
+    position: absolute;
+    text-align: center;
+    border-radius: 5%;
+}
+
+#div03{
+    width: 300px;
+    height: 200px;
+    background-color:cornsilk;
+    margin-left: 450px;
+    margin-top: 80px;
+    position: absolute;
+    text-align: center;
+    border-radius: 5%;
+}
+#div04{
+    width: 300px;
+    height: 200px;
+    background-color: cornsilk;
+    margin-left: 850px;
+    margin-top: 80px;
+    position: absolute;
+    text-align: center;
+    border-radius: 5%;
+}
+.img01{ 
+  height: 260px;
+  position: inherit;
+  bottom: 70px;
+  left: 20px;
+  
+}
+.img02{
+height: 200px; 
+bottom: 70px;
+left: -28px;     
+position: inherit;
+
+}
+.img03{
+    height: 280px;
+    bottom: 20px;
+    left: 40px;
+    position: inherit;
+}
+

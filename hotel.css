@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    background-color: darkgoldenrod;
+    
+}
+.flex-container>div{
+    width:350px ;
+    height:550px ;
+    text-align:center;
+    line-height: 50px;
+    font-size: 30px;
+    font-size:25px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.div01{
+    width: 200px;
+    height: 200px;
+    background-color:lightsalmon;
+    margin: 10px;
+    color: rgb(0, 0, 61);
+    font-size: 25px;
+   
+}
+.img01{
+ width: 320px;
+ height: 300px;
+}
+.btn1{
+    width:150px;
+    height: 60px;
+    background-color:lightseagreen;
+    border-radius: 12px;
+    font-style: italic;
+    font-size:25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn1:hover{
+    background-color: tomato;
+}
+.a1{
+    text-decoration: none;
+}
+
+
+.div02{
+    width: 200px;
+    height: 200px;
+    background-color:rgb(17, 87, 109);
+    margin: 10px;
+}
+.img02{
+    width: 320px;
+    height: 300px;
+   }
+   .btn2{
+       width:150px;
+       height: 60px;
+       background-color:lightseagreen;
+       border-radius: 12px;
+       font-style: italic;
+       font-size:25px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .btn2:hover{
+    background-color: tomato;
+}
+   .a2{
+       text-decoration: none;
+    }
+
+
+.div03{
+    width: 200px;
+    height: 200px;
+    background-color: purple;
+    margin: 10px;
+}
+.img03{
+    width: 320px;
+    height: 300px;
+   }
+   .btn3{
+       width:150px;
+       height: 60px;
+       background-color:lightseagreen;
+       border-radius: 12px;
+       font-style: italic;
+       font-size:25px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .btn3:hover{
+    background-color: tomato;
+}
+   .a3{
+       text-decoration: none;
+    }
+
+.div04{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    margin: 10px;
+}
+.img04{
+    width: 320px;
+    height: 300px;
+   }
+   .btn4{
+       width:150px;
+       height: 60px;
+       background-color:lightseagreen;
+       border-radius: 12px;
+       font-style: italic;
+       font-size:25px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   .btn4:hover{
+    background-color: tomato;
+}
+   .a4{
+       text-decoration: none;
+    }
